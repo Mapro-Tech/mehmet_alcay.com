@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-image: url(/wallpapers/fantastic-world.jpg);
+  background-image: url(./wallpapers/fantastic-world.jpg);
   background-size: 100;
   background-position: center;
   padding-bottom: 100px;
@@ -14,7 +14,7 @@ header {
   color: white;
   padding: 10px;
   text-align: center;
-  background-image: url(/wallpapers/lake-view.jpg);
+  background-image: url(./wallpapers/lake-view.jpg);
   background-size: cover;
 }
 
@@ -52,19 +52,19 @@ main {
 }
 
 #lorpoc {
-  background-image: url(/images/lorpoc-bg.jpeg);
+  background-image: url(./images/lorpoc-bg.jpeg);
   background-size: cover;
   background-position: center;
 }
 
 #mib {
-  background-image: url(/images/hogan-troyd.jpeg);
+  background-image: url(./images/hogan-troyd.jpeg);
   background-size: cover;
   background-position: center;
 }
 
 #musics {
-  background-image: url(/images/musics-bg.jpeg);
+  background-image: url(./images/musics-bg.jpeg);
   background-size: cover;
   background-position: center;
 }
